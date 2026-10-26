@@ -18,7 +18,9 @@
       "manualSnapshot": {
         "asOf": "2026-10-20",
         "providedBy": "owner",
-        "fields": ["hIndex"]
+        "fields": [
+          "hIndex"
+        ]
       }
     },
     "webOfScience": {
@@ -38,7 +40,9 @@
       "manualSnapshot": {
         "asOf": "2026-10-20",
         "providedBy": "owner",
-        "fields": ["hIndex"]
+        "fields": [
+          "hIndex"
+        ]
       }
     },
     "openalex": {
@@ -54,8 +58,8 @@
         "citations": 25,
         "publications": 20
       },
-      "lastSuccess": "2026-10-19T19:11:21.212Z",
-      "lastAttempt": "2026-10-19T19:11:21.212Z",
+      "lastSuccess": "2026-10-26T08:54:05.774Z",
+      "lastAttempt": "2026-10-26T08:54:05.774Z",
       "provenance": {
         "method": "official_api",
         "orcidMatch": true,
